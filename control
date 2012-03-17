@@ -1,0 +1,9 @@
+Package: be.rud0lf77.siricon
+Name: SirIcon
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Launch Siri from SpringBoard
+Maintainer: Rudolf Lichtner
+Author: Rudolf Lichtner
+Section: Tweaks
